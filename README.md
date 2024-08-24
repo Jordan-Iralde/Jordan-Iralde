@@ -41,8 +41,6 @@ I'm passionate about programming, especially in Python, and I'm constantly explo
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jordan-Iralde&label=Profile%20views&color=0e75b6&style=flat" alt="Jordan-Iralde" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jordan-Iralde" alt="Jordan-Iralde" /></a> </p>
 
 - 📫 How to reach me **iraldejordan10@gmail.com**
