@@ -62,7 +62,9 @@ I'm passionate about programming, especially in Python, and I'm constantly explo
   <h2>Gmail: **iraldejordan10@gmail.com** </h2>
 </p>
 
+
 ### 💡 Featured Projects:
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jordan-Iralde&repo=ProBestoJarvisAI" />
 </a>
@@ -76,6 +78,7 @@ I'm passionate about programming, especially in Python, and I'm constantly explo
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jordan-Iralde&repo=AngularCocina" />
 </a>
+  </div>
 <hr>
 
 ### 📊 GitHub Stats:
@@ -88,6 +91,7 @@ I'm passionate about programming, especially in Python, and I'm constantly explo
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jordan1Iralde)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
-<p align="left"> 
+
+
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jordan-Iralde" alt="Jordan-Iralde" /></a> 
-</p>
+
