@@ -81,17 +81,27 @@ I'm passionate about programming, especially in Python, and I'm constantly explo
   </div>
 <hr>
 
-### 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Iralde&layout=compact&theme=radical)
+### 📊 GitHub Stats & Trophy:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jordan-Iralde&theme=radical"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jordan-Iralde&theme=radical&layout=compact&langs_count=8&card_width=320"/>
+</a>
+<a href="https://git.io/streak-stats">
+  <img height=100 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=Jordan-Iralde](https://github-readme-streak-stats.herokuapp.com?user=Jordan-Iralde&theme=radical)&theme=radical&layout=compact&langs_count=8&card_width=320"/>
+</a>
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jordan-Iralde&theme=radical](https://github-readme-streak-stats.herokuapp.com?user=Jordan-Iralde&theme=radical)&theme=radical&layout=compact&langs_count=8&card_width=320"/>
+</a>
+
+
+
 <br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jordan-Iralde&show_icons=true&theme=radical)
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jordan-Iralde&theme=radical)](https://git.io/streak-stats)
-<br>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jordan1Iralde)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jordan1Iralde&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
 
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jordan-Iralde" alt="Jordan-Iralde" /></a> 
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jordan-Iralde&row=2&column=4&theme=radical" alt="Jordan-Iralde" /></a> 
+</div>
