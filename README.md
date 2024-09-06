@@ -65,17 +65,17 @@ I'm passionate about programming, especially in Python, and I'm constantly explo
 
 ### 💡 Featured Projects:
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Jordan-Iralde/ProBestoJarvisAI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jordan-Iralde&repo=ProBestoJarvisAI" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Jordan-Iralde/Portafolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jordan-Iralde&repo=Portafolio" />
 </a>
 <p></p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Jordan-Iralde/Git-Jordan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jordan-Iralde&repo=Git-Jordan" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Jordan-Iralde/AngularCocina">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jordan-Iralde&repo=AngularCocina" />
 </a>
   </div>
