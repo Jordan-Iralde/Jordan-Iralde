@@ -64,15 +64,15 @@ I'm passionate about programming, especially in Python, and I'm constantly explo
 <a href="https://github.com/Jordan-Iralde/ProBestoJarvisAI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jordan-Iralde&repo=ProBestoJarvisAI" />
 </a>
-<a href="https://github.com/Jordan-Iralde/Portafolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jordan-Iralde&repo=Portafolio" />
+<a href="https://github.com/Jordan-Iralde/Desafio4-Interfaz_Sensor_MQ2"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jordan-Iralde&repo=Desafio4-Interfaz_Sensor_MQ2" />
 </a>
 <p></p>
 <a href="https://github.com/Jordan-Iralde/Git-Jordan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jordan-Iralde&repo=Git-Jordan" />
 </a>
-<a href="https://github.com/Jordan-Iralde/AngularCocina">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jordan-Iralde&repo=AngularCocina" />
+<a href="https://github.com/Jordan-Iralde/Portafolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jordan-Iralde&repo=Portafolio" />
 </a>
   </div>
 <hr>
