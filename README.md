@@ -1,100 +1,115 @@
 # Hi there 👋, I'm Jordan Iralde
 
-### 🧑‍💻 16-Year-Old Aspiring Developer | Python Enthusiast
-I'm passionate about programming, especially in Python, and I'm constantly exploring new technologies like C++, JS, and machine learning, I'm working on multiple projects, view them now!.
+### 🧑‍💻 16-Year-Old Aspiring Developer | Python Enthusiast | AI & Robotics Explorer
 
-### 🛠️ Technologies and Tools:
-<p align="left"> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-</p>
+Welcome to my GitHub! I’m Jordan, a passionate developer diving into the worlds of Artificial Intelligence, Robotics, and Machine Learning. I love building solutions that can make a real impact, and I’m always open to collaborating and learning new things. Check out my projects below!
 
-### 🔍 Currently Learning:
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a> 
-  </a>
+🚀 **Currently Learning**: Docker, Kotlin, TensorFlow, PyTorch, Reinforcement Learning, IoT.
 
-### 🎯 Will Learn:
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>     </a> 
+---
+
+## 🚀 **Featured Projects**
+
+Here are some of my most exciting and innovative projects, with a focus on solving real-world problems. Feel free to explore, contribute, or give feedback!
+
+### 1. **[ProBestoJarvisAI: Your Personal AI Assistant](https://github.com/Jordan-Iralde/ProBestoJarvisAI)** 🤖
+
+Welcome to **ProBestoJarvisAI**, an advanced Python-based AI Assistant designed to make your life easier. With Natural Language Processing (NLP) and voice recognition, this AI helps manage tasks, schedule reminders, and even engage in conversations. Whether you want a productivity boost or a multi-functional assistant, **ProBestoJarvisAI** has you covered.
+
+**Technologies**: Python, NLP, Speech Recognition, Machine Learning, AI, Flask, Docker
+
+![ProBestoJarvisAI](https://via.placeholder.com/500x300.png)  
+> **🌟 Star it if you find it useful!** ⭐
+
+### 2. **[Floyd-Machine: Centralized Robotic Control System](https://github.com/Jordan-Iralde/Floyd-Machine)** 🤖🛠️
+
+Introducing **Floyd-Machine**, a project designed to develop a centralized control system for autonomous robots using advanced artificial intelligence. The system, also known as **Floyd-Machine**, manages and optimizes the performance of robots in real-time through AI-powered coordination.
+
+**Technologies**: Python, OpenGL, GLM, AI, Robotics, IoT, Machine Learning
+
+**Project Breakdown**:
+
+- **Phase 1: Project Structure**  
+  The base of the project, with modular code to allow future expansions. Focus on OpenGL for rendering and GLM for 3D transformations.
   
-### What I Use
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>   </a> 
+- **Phase 2: Virtual Testing Environment**  
+  Create a 3D interactive world simulating real-world conditions. Includes basic robot models, cameras, and sensors to test navigation and manipulation tasks.
   
-  <h3 align="left">📫Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/jord%C3%A1n-iralde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordán iralde" height="30" width="40" /></a>
-  <a href="https://kaggle.com/michi critico!" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="michi critico!" height="30" width="40" /></a>
+- **Phase 3: Real-World Application**  
+  Adapt the virtual system to work with physical robots in real-world environments, including integrating hardware, sensors, and a centralized control tower.
 
-  <h2>Gmail: **iraldejordan10@gmail.com** </h2>
-</p>
+![Floyd-Machine](https://via.placeholder.com/500x300.png)
 
+> **🌟 A unique fusion of AI and robotics.**
 
-### 💡 Featured Projects:
-<div align="center">
-<a href="https://github.com/Jordan-Iralde/ProBestoJarvisAI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jordan-Iralde&repo=ProBestoJarvisAI" />
-</a>
-<a href="https://github.com/Jordan-Iralde/Desafio4-Interfaz_Sensor_MQ2"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jordan-Iralde&repo=Desafio4-Interfaz_Sensor_MQ2" />
-</a>
-<p></p>
-<a href="https://github.com/Jordan-Iralde/Git-Jordan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jordan-Iralde&repo=Git-Jordan" />
-</a>
-<a href="https://github.com/Jordan-Iralde/Portafolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jordan-Iralde&repo=Portafolio" />
-</a>
-  </div>
-<hr>
+### 3. **[Desafio4-Interfaz_Sensor_MQ2](https://github.com/Jordan-Iralde/Desafio4-Interfaz_Sensor_MQ2)** 🌱
 
-### 📊 GitHub Stats & Trophy:
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jordan-Iralde&theme=radical&layout=compact&langs_count=8&card_width=320"/>
-</a>
-<a href="https://git.io/streak-stats">
-  <img height=100 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=Jordan-Iralde](https://github-readme-streak-stats.herokuapp.com?user=Jordan-Iralde&theme=radical)&theme=radical&layout=compact&langs_count=8&card_width=320"/>
-</a>
-<a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jordan-Iralde&theme=radical](https://github-readme-streak-stats.herokuapp.com?user=Jordan-Iralde&theme=radical)&theme=radical&layout=compact&langs_count=8&card_width=320"/>
-</a>
+An IoT project using the MQ2 gas sensor to monitor air quality and send real-time alerts. Perfect for home automation and environmental monitoring.
 
+**Technologies**: Python, IoT, MQTT, Sensors, Raspberry Pi
 
+![Desafio4 Screenshot](https://via.placeholder.com/500x300.png)
 
-<br>
+---
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jordan1Iralde&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
+## 🔧 **Technologies & Tools**
 
+I’m a versatile developer with experience in a variety of tools and languages. Here are some of my favorites:
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jordan-Iralde&row=2&column=4&theme=radical" alt="Jordan-Iralde" /></a> 
-</div>
+- **Languages**: Python, JavaScript, C++, HTML, CSS, SQL
+- **Frameworks**: Flask, Angular, Node.js, React, Bootstrap
+- **Databases**: MySQL, MongoDB
+- **Machine Learning**: TensorFlow, PyTorch, Scikit-learn
+- **Robotics & IoT**: OpenGL, ROS, MQTT, Raspberry Pi, Arduino
+- **Cloud & DevOps**: Docker, Kubernetes, CI/CD
+- **Tools**: Git, Figma, Blender, Unity, Arduino IDE
+
+---
+
+## 📊 **GitHub Stats & Activity**
+
+Here's a quick look at my contributions and activity. I’m constantly working on new projects and pushing updates, so check out my GitHub for more!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jordan-Iralde&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Jordan-Iralde&theme=radical&layout=compact&langs_count=8)
+
+---
+
+## 🏆 **GitHub Trophies**
+
+A snapshot of some of the trophies and milestones I've achieved! It’s a great way to show my commitment to learning and improving.
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jordan-Iralde&theme=radical&row=2&column=4)
+
+---
+
+## 🌱 **I’m Looking to Collaborate on**
+
+- **AI/ML Projects**: NLP, Computer Vision, Reinforcement Learning.
+- **Robotics**: Autonomous systems, Robot Operating Systems (ROS).
+- **IoT Applications**: Smart homes, environmental monitoring, automation.
+
+If you're working on similar projects, or if you have ideas for new ones, feel free to reach out. I’m always up for collaborating!
+
+---
+
+## 📫 **Let’s Connect**
+
+Feel free to reach out to me via any of the following platforms:
+
+- **LinkedIn**: [Jordan Iralde](https://www.linkedin.com/in/jord%C3%A1n-iralde/)
+- **Kaggle**: [Michi Critico](https://kaggle.com/michi)
+- **Email**: [iraldejordan10@gmail.com](mailto:iraldejordan10@gmail.com)
+
+---
+
+## 🚀 **Let’s Build Something Amazing Together!**
+
+I’m always looking for new challenges and interesting projects. Whether it’s AI, robotics, IoT, or open-source contributions, I’d love to collaborate. Let’s connect and create something great!
+
+---
+
+## 💬 **Ask Me Anything**
+
+Feel free to drop questions, feedback, or suggestions. I’m open to all kinds of conversations, from tech discussions to learning experiences. Let’s chat! 😊
