@@ -33,7 +33,7 @@ Welcome to **ProBestoJarvisAI**, an advanced Python-based AI Assistant designed 
 - 🧠 **Personalization**: Customizable settings to suit your needs.
 - 📅 **Calendar Integration**: Sync tasks with your calendar.
 
-![ProBestoJarvisAI](https://via.placeholder.com/500x300.png)  
+![ProBestoJarvisAI](jarvis.jpg)  
 > **🌟 Star it if you find it useful!** ⭐
 
 ---
