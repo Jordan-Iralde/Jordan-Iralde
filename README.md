@@ -16,37 +16,64 @@ Here are some of my most exciting and innovative projects, with a focus on solvi
 
 Welcome to **ProBestoJarvisAI**, an advanced Python-based AI Assistant designed to make your life easier. With Natural Language Processing (NLP) and voice recognition, this AI helps manage tasks, schedule reminders, and even engage in conversations. Whether you want a productivity boost or a multi-functional assistant, **ProBestoJarvisAI** has you covered.
 
-**Technologies**: Python, NLP, Speech Recognition, Machine Learning, AI, Flask, Docker
+🔧 **Technologies**: 
+- Python
+- NLP (Natural Language Processing)
+- Speech Recognition
+- Machine Learning
+- Flask
+- Docker
+- SQLite
+
+**Key Features**:
+- 🗣️ **Voice Recognition**: Interact with Jarvis through voice commands.
+- 📝 **Task Management**: Create, update, and delete tasks effortlessly.
+- 🔔 **Reminder System**: Set reminders for important tasks.
+- 🧠 **Personalization**: Customizable settings to suit your needs.
+- 📅 **Calendar Integration**: Sync tasks with your calendar.
 
 ![ProBestoJarvisAI](https://via.placeholder.com/500x300.png)  
 > **🌟 Star it if you find it useful!** ⭐
+
+---
 
 ### 2. **[Floyd-Machine: Centralized Robotic Control System](https://github.com/Jordan-Iralde/Floyd-Machine)** 🤖🛠️
 
 Introducing **Floyd-Machine**, a project designed to develop a centralized control system for autonomous robots using advanced artificial intelligence. The system, also known as **Floyd-Machine**, manages and optimizes the performance of robots in real-time through AI-powered coordination.
 
-**Technologies**: Python, OpenGL, GLM, AI, Robotics, IoT, Machine Learning
+🔧 **Technologies**: 
+- Python
+- OpenGL
+- GLM (Graphics Library)
+- AI
+- Robotics
+- IoT
+- Machine Learning
 
 **Project Breakdown**:
 
-- **Phase 1: Project Structure**  
-  The base of the project, with modular code to allow future expansions. Focus on OpenGL for rendering and GLM for 3D transformations.
+- **Phase 1: Project Structure**: The base of the project, with modular code to allow future expansions. Focus on OpenGL for rendering and GLM for 3D transformations.
   
-- **Phase 2: Virtual Testing Environment**  
-  Create a 3D interactive world simulating real-world conditions. Includes basic robot models, cameras, and sensors to test navigation and manipulation tasks.
+- **Phase 2: Virtual Testing Environment**: Create a 3D interactive world simulating real-world conditions. Includes basic robot models, cameras, and sensors to test navigation and manipulation tasks.
   
-- **Phase 3: Real-World Application**  
-  Adapt the virtual system to work with physical robots in real-world environments, including integrating hardware, sensors, and a centralized control tower.
+- **Phase 3: Real-World Application**: Adapt the virtual system to work with physical robots in real-world environments, including integrating hardware, sensors, and a centralized control tower.
 
 ![Floyd-Machine](https://via.placeholder.com/500x300.png)
 
 > **🌟 A unique fusion of AI and robotics.**
 
+---
+
 ### 3. **[Desafio4-Interfaz_Sensor_MQ2](https://github.com/Jordan-Iralde/Desafio4-Interfaz_Sensor_MQ2)** 🌱
 
 An IoT project using the MQ2 gas sensor to monitor air quality and send real-time alerts. Perfect for home automation and environmental monitoring.
 
-**Technologies**: Python, IoT, MQTT, Sensors, Raspberry Pi
+🔧 **Technologies**: 
+- Python
+- IoT
+- MQTT
+- Sensors
+- Raspberry Pi
 
 ![Desafio4 Screenshot](https://via.placeholder.com/500x300.png)
 
@@ -58,7 +85,7 @@ I’m a versatile developer with experience in a variety of tools and languages.
 
 - **Languages**: Python, JavaScript, C++, HTML, CSS, SQL
 - **Frameworks**: Flask, Angular, Node.js, React, Bootstrap
-- **Databases**: MySQL, MongoDB
+- **Databases**: MySQL, MongoDB, SQLite
 - **Machine Learning**: TensorFlow, PyTorch, Scikit-learn
 - **Robotics & IoT**: OpenGL, ROS, MQTT, Raspberry Pi, Arduino
 - **Cloud & DevOps**: Docker, Kubernetes, CI/CD
@@ -72,7 +99,7 @@ Here's a quick look at my contributions and activity. I’m constantly working o
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jordan-Iralde&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Jordan-Iralde&theme=radical&layout=compact&langs_count=8)
+![Top Languages](https://via.placeholder.com/500x300.png)
 
 ---
 
