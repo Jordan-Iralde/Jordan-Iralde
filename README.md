@@ -27,7 +27,7 @@ Welcome to **ProBestoJarvisAI**, an advanced Python-based AI Assistant designed 
 - 🔔 **Reminder System**: Set reminders for important tasks  
 - 📅 **Calendar Integration**: Sync tasks with your calendar  
 
-![ProBestoJarvisAI](https://via.placeholder.com/500x300.png)  
+![ProBestoJarvisAI](jarvis.jpg)  
 > **🌟 Star it if you find it useful!** ⭐  
 
 ---
@@ -47,7 +47,7 @@ A centralized control system for autonomous robots using advanced artificial int
 
 ---
 
-### 3. **[My Virtual Portfolio](https://github.com/Jordan-Iralde/My-Portfolio)** 🌐  
+### 3. **[Curriculum-Portafolio](https://github.com/Jordan-Iralde/Curriculum-Portafolio)** 🌐  
 
 A fully interactive portfolio showcasing my skills, projects, and experience. Built to impress recruiters and collaborators while demonstrating advanced frontend and backend techniques.  
 
