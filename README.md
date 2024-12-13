@@ -32,7 +32,7 @@ Welcome to **ProBestoJarvisAI**, an advanced Python-based AI Assistant designed 
 
 ---
 
-### 2. **[Hospital Management Website](https://github.com/Teresani/Integracio_de_paginas)** 🏥🌐  
+### 2. **[Hospital de La Falda](https://github.com/Teresani/Integracio_de_paginas)** 🏥🌐  
 
 A comprehensive, user-friendly website designed for **La Falda Hospital**, providing a seamless experience for both patients and staff. This project aims to improve hospital accessibility and efficiency with a modern web solution.  
 
@@ -47,7 +47,7 @@ A comprehensive, user-friendly website designed for **La Falda Hospital**, provi
 - 📢 **Announcements**: Hospital updates and important notices displayed dynamically.  
 - 📱 **Responsive Design**: Basic Responsive Design.  
 
-![Hospital Website Screenshot](https://via.placeholder.com/500x300.png)  
+![HospitalWeb](PaginadelHospital.png)  
 
 ---
 
@@ -65,7 +65,7 @@ A fully interactive portfolio showcasing my skills, projects, and experience. Bu
 - 📱 **Responsive Design**: Works seamlessly across all devices  
 - 💌 **Contact Form**: Directly send me messages  
 
-![My Portfolio Screenshot](https://via.placeholder.com/500x300.png)  
+![PortafolioJarvis](Portafolio.png)  
 
 ---
 
