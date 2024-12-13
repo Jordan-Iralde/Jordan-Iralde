@@ -32,18 +32,22 @@ Welcome to **ProBestoJarvisAI**, an advanced Python-based AI Assistant designed 
 
 ---
 
-### 2. **[Floyd-Machine: Centralized Robotic Control System](https://github.com/Jordan-Iralde/Floyd-Machine)** 🤖🛠️  
+### 2. **[Hospital Management Website](https://github.com/Teresani/Integracio_de_paginas)** 🏥🌐  
 
-A centralized control system for autonomous robots using advanced artificial intelligence. The system manages and optimizes the performance of robots in real-time through AI-powered coordination.  
+A comprehensive, user-friendly website designed for **La Falda Hospital**, providing a seamless experience for both patients and staff. This project aims to improve hospital accessibility and efficiency with a modern web solution.  
 
-🔧 **Technologies**: Python, OpenGL, AI, Robotics, IoT  
+🔧 **Technologies**:  
+- HTML, CSS, JavaScript  
+- Angular
+- Django
 
-**Project Breakdown**:  
-- **Phase 1**: Modular structure with OpenGL rendering  
-- **Phase 2**: Virtual testing environment simulating real-world conditions  
-- **Phase 3**: Real-world application with physical robots  
+**Key Features**:  
+- 🩺 **Appointment Booking**: Patients can book, reschedule, or cancel appointments online (Feature).  
+- 📄 **Medical Records**: Secure access to patient medical histories for doctors and authorized personnel.  
+- 📢 **Announcements**: Hospital updates and important notices displayed dynamically.  
+- 📱 **Responsive Design**: Basic Responsive Design.  
 
-![Floyd-Machine](https://via.placeholder.com/500x300.png)  
+![Hospital Website Screenshot](https://via.placeholder.com/500x300.png)  
 
 ---
 
