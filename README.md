@@ -29,7 +29,7 @@ Welcome to **ProBestoJarvisAI**, an advanced Python-based AI Assistant designed 
 
 ![ProBestoJarvisAI](jarvis.jpg)  
 > **🌟 Star it if you find it useful!** ⭐  
-
+[![wakatime](https://wakatime.com/badge/user/24a66571-28fb-493e-90b7-dafc0e06d743/project/74a18be4-b750-490e-8865-23ecf2c0a259.svg)](https://wakatime.com/badge/user/24a66571-28fb-493e-90b7-dafc0e06d743/project/74a18be4-b750-490e-8865-23ecf2c0a259)
 ---
 
 ### 2. **[Hospital de La Falda](https://github.com/Teresani/Integracio_de_paginas)** 🏥🌐  
@@ -104,6 +104,7 @@ A fully interactive portfolio showcasing my skills, projects, and experience. Bu
 ---
 
 ## 💬 **Ask Me Anything**  
+<figure><embed src="https://wakatime.com/share/@24a66571-28fb-493e-90b7-dafc0e06d743/a98f7731-5398-4444-ae26-8d0a49a2adc9.svg"></embed></figure>
 
 Feel free to drop questions, feedback, or suggestions. Let’s chat! 😊  
-
+(https://wakatime.com/share/@24a66571-28fb-493e-90b7-dafc0e06d743/c5e2672b-88a9-4c5d-9d80-5f3ef25e1fbe.png):target: https://wakatime.com/
