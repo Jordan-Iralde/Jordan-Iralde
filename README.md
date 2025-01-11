@@ -62,7 +62,6 @@ Get ready for the wackiest adventure! **Crazy Chicken** is an exciting action-ad
 **Key Features**:  
 - 🎮 **Engaging Gameplay**: Navigate through levels filled with quirky obstacles and surprises  
 - 🐓 **Unique Characters**: Meet eccentric farm animals with their own personalities  
-- 🌟 **Customizable Skins**: Unlock and equip hilarious outfits for your chicken  
 - 🧩 **Challenging Puzzles**: Solve creative puzzles to progress through the story  
 
 Stay tuned for its release on **June 28**, and don't miss the chance to join the fun!  
