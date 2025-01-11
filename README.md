@@ -42,41 +42,41 @@ A comprehensive, user-friendly website designed for **La Falda Hospital**, provi
 - Django
 
 **Key Features**:  
-- 🩺 **Appointment Booking**: Patients can book, reschedule, or cancel appointments online (Feature).  
-- 📄 **Medical Records**: Secure access to patient medical histories for doctors and authorized personnel.  
-- 📢 **Announcements**: Hospital updates and important notices displayed dynamically.  
-- 📱 **Responsive Design**: Basic Responsive Design.  
+- 🩺 **Appointment Booking**: Patients can book, reschedule, or cancel appointments online  
+- 📄 **Medical Records**: Secure access to patient medical histories for doctors and authorized personnel  
+- 📢 **Announcements**: Hospital updates and important notices displayed dynamically  
+- 📱 **Responsive Design**: Works seamlessly across all devices  
 
 ![HospitalWeb](PaginadelHospital.png)  
 
 ---
 
-### 3. **[Curriculum-Portafolio](https://github.com/Jordan-Iralde/Curriculum-Portafolio)** 🌐  
+### 3. **[Crazy Chicken (Coming June 28)](https://github.com/Jordan-Iralde/CrazyChicken)** 🐔🎮  
 
-A fully interactive portfolio showcasing my skills, projects, and experience. Built to impress recruiters and collaborators while demonstrating advanced frontend and backend techniques.  
+Get ready for the wackiest adventure! **Crazy Chicken** is an exciting action-adventure game where players guide a mischievous chicken on a mission to escape from a chaotic farm filled with challenges, enemies, and puzzles.  
 
 🔧 **Technologies**:  
-- HTML, CSS, JavaScript  
-- React, Node.js, Firebase  
+- Unity, C#  
+- Blender (3D Modeling), Photoshop (Textures)  
 
 **Key Features**:  
-- 🌟 **Interactive UI**: Dynamic animations and transitions for a modern feel  
-- 📄 **Downloadable Resume**: Easily download my resume in PDF format  
-- 📱 **Responsive Design**: Works seamlessly across all devices  
-- 💌 **Contact Form**: Directly send me messages  
+- 🎮 **Engaging Gameplay**: Navigate through levels filled with quirky obstacles and surprises  
+- 🐓 **Unique Characters**: Meet eccentric farm animals with their own personalities  
+- 🌟 **Customizable Skins**: Unlock and equip hilarious outfits for your chicken  
+- 🧩 **Challenging Puzzles**: Solve creative puzzles to progress through the story  
 
-![PortafolioJarvis](Portafolio.png)  
+Stay tuned for its release on **June 28**, and don't miss the chance to join the fun!  
+
+![CrazyChicken](crazy_chicken.png)  
 
 ---
 
 ## 🔧 **Technologies & Tools**  
 
 - **Languages**: Python, JavaScript, C++, HTML, CSS, SQL  
-- **Frameworks**: Flask, Angular, React, Node.js  
-- **Databases**: MySQL, MongoDB, SQLite  
-- **AI/ML**: TensorFlow, PyTorch, Scikit-learn  
-- **Robotics/IoT**: OpenGL, ROS, MQTT, Raspberry Pi  
-- **Cloud/DevOps**: Docker, Kubernetes, CI/CD  
+- **Frameworks**: Angular, React, Node.js  
+- **Databases**: MySQL, MongoDB
+- **AI/ML**: TensorFlow, PyTorch, Scikit-learn   
 
 ---
 
@@ -107,4 +107,3 @@ A fully interactive portfolio showcasing my skills, projects, and experience. Bu
 <figure><embed src="https://wakatime.com/share/@24a66571-28fb-493e-90b7-dafc0e06d743/a98f7731-5398-4444-ae26-8d0a49a2adc9.svg"></embed></figure>
 
 Feel free to drop questions, feedback, or suggestions. Let’s chat! 😊  
-(https://wakatime.com/share/@24a66571-28fb-493e-90b7-dafc0e06d743/c5e2672b-88a9-4c5d-9d80-5f3ef25e1fbe.png):target: https://wakatime.com/
