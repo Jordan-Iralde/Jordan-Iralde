@@ -66,7 +66,7 @@ Get ready for the wackiest adventure! **Crazy Chicken** is an exciting action-ad
 
 Stay tuned for its release on **June 28**, and don't miss the chance to join the fun!  
 
-![CrazyChicken](crazy_chicken.png)  
+![Crazy-Chicken](crazy_chicken.png)  
 
 ---
 
