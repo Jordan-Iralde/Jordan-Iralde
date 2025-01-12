@@ -51,7 +51,7 @@ A comprehensive, user-friendly website designed for **La Falda Hospital**, provi
 
 ---
 
-### 3. **[Crazy Chicken (Coming June 28)](https://github.com/Jordan-Iralde/CrazyChicken)** 🐔🎮  
+### 3. **[Crazy Chicken (Coming June 28)](https://github.com/Jordan-Iralde/Crazy-Chicken)** 🐔🎮  
 
 Get ready for the wackiest adventure! **Crazy Chicken** is an exciting action-adventure game where players guide a mischievous chicken on a mission to escape from a chaotic farm filled with challenges, enemies, and puzzles.  
 
