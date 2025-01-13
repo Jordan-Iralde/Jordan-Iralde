@@ -13,7 +13,7 @@ Welcome to my GitHub! 🚀 I'm Jordan, a passionate developer diving into the fa
 
 Here are some of my most exciting and innovative projects. Feel free to explore, contribute, or give feedback!  
 
-### 1. **[ProBestoJarvisAI: Your Personal AI Assistant](https://github.com/Jordan-Iralde/ProBestoJarvisAI)** 🤖  
+### 1. <a href="https://github.com/Jordan-Iralde/ProBestoJarvisAI"> ProBestoJarvisAI: Your Personal AI Assistant </a> 🤖  
 
 Welcome to **ProBestoJarvisAI**, an advanced Python-based AI Assistant designed to make your life easier. With **Natural Language Processing (NLP)** and **voice recognition**, this AI helps manage tasks, schedule reminders, and even engage in conversations.  
 
@@ -27,12 +27,12 @@ Welcome to **ProBestoJarvisAI**, an advanced Python-based AI Assistant designed 
 - 🔔 **Reminder System**: Set reminders for important tasks  
 - 📅 **Calendar Integration**: Sync tasks with your calendar  
 
-![ProBestoJarvisAI](jarvis.jpg)  
+<a href="https://github.com/Jordan-Iralde/ProBestoJarvisAI"> <img src="jarvis.jpg"> </a>
 > **🌟 Star it if you find it useful!** ⭐  
 [![wakatime](https://wakatime.com/badge/user/24a66571-28fb-493e-90b7-dafc0e06d743/project/74a18be4-b750-490e-8865-23ecf2c0a259.svg)](https://wakatime.com/badge/user/24a66571-28fb-493e-90b7-dafc0e06d743/project/74a18be4-b750-490e-8865-23ecf2c0a259)
 ---
 
-### 2. **[Hospital de La Falda](https://github.com/Teresani/Integracio_de_paginas)** 🏥🌐  
+### 2. <a href="https://github.com/Teresani/Integracio_de_paginas"> Hospital de La Falda </a> 🏥🌐  
 
 A comprehensive, user-friendly website designed for **La Falda Hospital**, providing a seamless experience for both patients and staff. This project aims to improve hospital accessibility and efficiency with a modern web solution.  
 
@@ -47,7 +47,8 @@ A comprehensive, user-friendly website designed for **La Falda Hospital**, provi
 - 📢 **Announcements**: Hospital updates and important notices displayed dynamically  
 - 📱 **Responsive Design**: Works seamlessly across all devices  
 
-![HospitalWeb](PaginadelHospital.png)  
+<a href="https://github.com/Teresani/Integracio_de_paginas"> <img src="PaginadelHospital.png"> </a>
+
 
 ---
 
@@ -65,9 +66,7 @@ Get ready for the wackiest adventure! **Crazy Chicken** is an exciting action-ad
 - 🧩 **Challenging Puzzles**: Solve creative puzzles to progress through the story  
 
 Stay tuned for its release on **June 28**, and don't miss the chance to join the fun!  
-
-![Crazy-Chicken](crazy_chicken.png)  
-
+<a href="https://github.com/Jordan-Iralde/Crazy-Chicken"> <img src="crazy_chicken.png"> </a>
 ---
 
 ## 🔧 **Technologies & Tools**  
