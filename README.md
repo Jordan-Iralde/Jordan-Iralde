@@ -19,7 +19,7 @@ Welcome to **ProBestoJarvisAI**, an advanced Python-based AI Assistant designed 
 
 🔧 **Technologies**:  
 - Python, NLP, Speech Recognition  
-- Machine Learning, Flask, Docker, SQLite  
+- Machine Learning, Flask, Docker, MongoDB  
 
 **Key Features**:  
 - 🗣️ **Voice Recognition**: Interact with Jarvis through voice commands  
@@ -102,6 +102,4 @@ Stay tuned for its release on **June 28**, and don't miss the chance to join the
 ---
 
 ## 💬 **Ask Me Anything**  
-<figure><embed src="https://wakatime.com/share/@24a66571-28fb-493e-90b7-dafc0e06d743/a98f7731-5398-4444-ae26-8d0a49a2adc9.svg"></embed></figure>
-
 Feel free to drop questions, feedback, or suggestions. Let’s chat! 😊  
