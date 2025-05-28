@@ -51,52 +51,32 @@ A comprehensive, user-friendly website designed for **La Falda Hospital**, provi
 
 
 ---
+### 3. **[Agenda Mágica](https://github.com/Jordan-Iralde/Agenda-Magica)** 📆✨  
 
-### 3. **[Crazy Chicken (Coming June 28)](https://github.com/Jordan-Iralde/Crazy-Chicken)** 🐔🎮  
-
-Get ready for the wackiest adventure! **Crazy Chicken** is an exciting action-adventure game where players guide a mischievous chicken on a mission to escape from a chaotic farm filled with challenges, enemies, and puzzles.  
+**Agenda Mágica** is a smart productivity app designed to revolutionize the way you manage your time. It integrates AI, automation, and a smooth user experience to keep you focused on what truly matters. Perfect for professionals, students, and teams aiming for real efficiency.
 
 🔧 **Technologies**:  
-- Unity, C#  
-- Blender (3D Modeling), Photoshop (Textures)  
+- React, React Native  
+- MongoDB, JavaScript, HTML/CSS  
+- Recommendation algorithms, AI for dynamic task prioritization  
 
 **Key Features**:  
-- 🎮 **Engaging Gameplay**: Navigate through levels filled with quirky obstacles and surprises  
-- 🐓 **Unique Characters**: Meet eccentric farm animals with their own personalities  
-- 🧩 **Challenging Puzzles**: Solve creative puzzles to progress through the story  
+- 🧠 **AI Task Manager**: Automatically prioritizes tasks based on urgency, energy levels, and long-term goals  
+- 🔔 **Smart Reminders**: Personalized alerts based on your habits and optimal timing  
+- 📊 **Productivity Insights**: Analyze your routines and get actionable improvement tips  
+- 🔁 **Cross-Platform Sync**: Access from desktop, mobile, or your JarvisAI assistant  
+- 🗂️ **Project Mode**: Organize tasks, deadlines, files, and notes into intelligent workflows  
 
-Stay tuned for its release on **June 28**, and don't miss the chance to join the fun!  
-<a href="https://github.com/Jordan-Iralde/Crazy-Chicken"> <img src="crazy_chicken.png"> </a>
----
+📅 **Beta Launch**: **June 28**  
+> Be part of the next generation of productivity tools.  
 
-## 🔧 **Technologies & Tools**  
-
-- **Languages**: Python, JavaScript, C++, HTML, CSS, SQL  
-- **Frameworks**: Angular, React, Node.js  
-- **Databases**: MySQL, MongoDB
-- **AI/ML**: TensorFlow, PyTorch, Scikit-learn   
-
----
-
-## 📊 **GitHub Stats & Activity**  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jordan-Iralde&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Iralde&theme=radical&layout=compact&langs_count=8)  
-
----
-
-## 🌱 **I’m Looking to Collaborate on**  
-
-- **AI/ML Projects**: NLP, Computer Vision, Reinforcement Learning  
-- **Robotics**: Autonomous systems, ROS  
-- **IoT Applications**: Smart homes, environmental monitoring, automation  
+<a href="https://github.com/Jordan-Iralde/AGENDA_MAGICA"> <img src="agenda_magica.png"> </a>
 
 ---
 
 ## 📫 **Let’s Connect**  
 
 - **LinkedIn**: [Jordan Iralde](https://www.linkedin.com/in/jordan-iralde/)  
-- **Kaggle**: [Michi Critico](https://kaggle.com/michi)  
 - **Email**: [iraldejordan10@gmail.com](mailto:iraldejordan10@gmail.com)  
 
 ---
