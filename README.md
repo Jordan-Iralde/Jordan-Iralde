@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Jordan Iralde
 
-### 🧠 Developer Fullstack | Explorador de IA, Robótica y Productividad Inteligente
+### 🧠 Developer Fullstack
 
-Tengo 16 años. Me apasiona la inteligencia artificial, los sistemas inteligentes y crear herramientas que mejoren la vida de las personas.
+Tengo 17 años. Me apasiona programar.
 
 ---
 
@@ -19,11 +19,6 @@ Productividad impulsada por IA y automatización.
 ### 🏥 [Hospital de La Falda](https://github.com/Teresani/Integracio_de_paginas)  
 Web para turnos, historial y gestión médica.  
 **Stack**: Angular · Django · HTML/CSS
-
----
-
-## 🌱 Aprendiendo ahora  
-Docker · PyTorch · IoT · Kotlin · DevOps
 
 ---
 
