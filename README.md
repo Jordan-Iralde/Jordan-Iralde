@@ -24,4 +24,4 @@ Web para turnos, historial y gestión médica.
 
 ## 📫 Contacto  
 📧 iraldejordan10@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/jordan-iralde/)  
+🔗 [LinkedIn](www.linkedin.com/in/jordanir)  
