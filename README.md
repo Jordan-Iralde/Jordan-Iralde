@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Jordan Iralde
 
-### 🧠 Developer Fullstack
+💻 **Desarrollador Full-Stack** | React · Node.js · Python · MySQL/MongoDB  
 
-Tengo 17 años. Me apasiona programar.
+🚀 Creo soluciones digitales que resuelven problemas, optimizan procesos y escalan con el tiempo.
 
 ---
 
@@ -12,9 +12,9 @@ Tengo 17 años. Me apasiona programar.
 Asistente personal con IA, voz y gestión de tareas.  
 **Stack**: Python · React · NLP · MongoDB
 
-### 📆 [Agenda Mágica](https://github.com/Jordan-Iralde/Agenda-Magica)  
+### 📆 [Magician Ground](https://github.com/MagicianGround)  
 Productividad impulsada por IA y automatización.  
-**Stack**: React · React Native · MongoDB · AI UX
+**Stack**: React · React Native · MongoDB & MySQL · AI UX
 
 ### 🏥 [Hospital de La Falda](https://github.com/Teresani/Integracio_de_paginas)  
 Web para turnos, historial y gestión médica.  
@@ -25,5 +25,3 @@ Web para turnos, historial y gestión médica.
 ## 📫 Contacto  
 📧 iraldejordan10@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/jordan-iralde/)  
-
-
