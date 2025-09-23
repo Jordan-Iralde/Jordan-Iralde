@@ -1,27 +1,27 @@
-# 👋 ¡Hola! Soy Jordan Iralde
+# 👋Hello! I'm Jordan Iralde
 
-💻 **Desarrollador Full-Stack** | React · Node.js · Python · MySQL/MongoDB  
+💻 **Full-Stack Developer** | React · Node.js · Python · MySQL/MongoDB  
 
-🚀 Creo soluciones digitales que resuelven problemas, optimizan procesos y escalan con el tiempo.
+🚀 I create digital solutions that solve problems, optimize processes and scale over time.
 
 ---
 
-## 🛠️ Proyectos Destacados
+## 🛠️ Featured Projects
 
 ### 🤖 [ProBestoJarvisAI](https://github.com/Jordan-Iralde/ProBestoJarvisAI)  
-Asistente personal con IA, voz y gestión de tareas.  
+Personal assistant with AI, voice and task management.  
 **Stack**: Python · React · NLP · MongoDB
 
 ### 📆 [Magician Ground](https://github.com/MagicianGround)  
-Productividad impulsada por IA y automatización.  
+AI-powered productivity and automation.  
 **Stack**: React · React Native · MongoDB & MySQL · AI UX
 
-### 🏥 [Hospital de La Falda](https://github.com/Teresani/Integracio_de_paginas)  
-Web para turnos, historial y gestión médica.  
+### 🏥 [Hospital de La Falda](https://github.com/Teresani/Integraci_de_paginas)  
+Website for shifts, history and medical management.  
 **Stack**: Angular · Django · HTML/CSS
 
 ---
 
-## 📫 Contacto  
+## 📫 Contact  
 📧 iraldejordan10@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/jordanir)  
