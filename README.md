@@ -56,6 +56,6 @@ El sistema observa recursos del entorno, ejecuta acciones en sandbox y aprende i
 
 # 🌐 Contacto
 
-* LinkedIn: linkedin.com/in/jordanir
+* <p>Portfolio: <a href="https://www.linkedin.com/in/jordanir/"> linkedin.com/in/jordanir/ </a></p>
 * <p>Portfolio: <a href="https://jordan-iralde-portfolio.vercel.app/"> jordan-iralde-portfolio.vercel.app </a></p>
 * Email: [iraldejordan10@gmail.com](mailto:iraldejordan10@gmail.com)
