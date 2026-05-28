@@ -1,67 +1,61 @@
-# 👋 Jordan Iralde
+# 💻 Full-Stack Developer & Co-Founder @ Code't Lab
 
-💻 **Full-Stack Developer**  
-React · Node.js · Python · MongoDB · MySQL  
+**React · Node.js · Python · AI Systems · Distributed Architectures**
 
-🚀 Desarrollo productos digitales con foco en **ejecución**, **automatización** y **escalabilidad**.  
-Me especializo en transformar ideas en sistemas funcionales, medibles y mantenibles.
+Desarrollo productos digitales orientados a automatización, ejecución y sistemas escalables. Enfoque centrado en arquitectura modular, rendimiento y software orientado a producción.
 
----
-
-## 🧠 Proyectos Principales (Activos)
-
-### 🤖 ProBesto Jarvis AI
-🔗 https://github.com/Jordan-Iralde/ProBestoJarvisAI  
-
-Sistema de **asistencia inteligente** orientado a productividad, automatización de tareas y control por voz.  
-Diseñado como producto modular y escalable.
-
-**Stack:**  
-Python · React · NLP · MongoDB · Automatización · IA aplicada
+> “Weniger aber besser.”
 
 ---
 
-### 🎯 Pathway — OKR & Execution System
-🔗 [pathway](https://pathway-okr.vercel.app/login) 
+# 🧠 Proyectos
 
-Plataforma enfocada en **ejecución real de objetivos**, combinando OKRs, tareas accionables y seguimiento de progreso.
+## 🎯 Pathway
 
-**Stack:**  
-MERN (MongoDB · Express · React · Node.js) · UX orientado a foco · Métricas simples
+Sistema de ejecución y productividad basado en OKRs, tareas accionables y foco operacional.
 
----
-
-### 🧙 Magician Ground
-🔗 https://github.com/MagicianGround  
-
-Proyecto de **automatización y productividad** potenciado por IA, con enfoque en experiencia de usuario y sistemas inteligentes.
-
-**Stack:**  
-React · React Native · MongoDB · MySQL · AI-driven UX
+**Stack:** React · Node.js · MongoDB · Express
+**Enfoque:** UX minimalista, persistencia optimizada y ejecución real.
 
 ---
 
-## 🛠️ Enfoque Técnico
+## 🤖 Blackbox.cc
 
-- Desarrollo **Full-Stack**
-- Arquitecturas modulares
-- Automatización de procesos
-- Integración de IA en productos reales
-- Código mantenible y orientado a producto
+Ecosistema de optimización computacional y ejecución distribuida.
 
----
+El sistema observa recursos del entorno, ejecuta acciones en sandbox y aprende iterativamente mediante arquitecturas basadas en:
 
-## 🌐 Portfolio & Contacto
+* `state -> action -> reward`
+* replay offline
+* políticas adaptativas
+* ejecución modular y segura
 
-🔗 **Portfolio profesional:**  
-https://jordan-iralde-portfolio.vercel.app/
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/jordanir
-
-📧 **Email:**  
-iraldejordan10@gmail.com
+**Stack:** Python · React · Node.js · MongoDB · Infra Systems
 
 ---
 
-> *“Menos ideas sueltas. Más sistemas que funcionan.”*
+# 🛠️ Stack Técnico
+
+* React / React Native
+* Node.js / Express
+* Python
+* MongoDB / MySQL / Supabase
+* TypeScript
+* Vercel / Render
+
+---
+
+# 📈 Filosofía
+
+* Construir sistemas útiles, no complejidad innecesaria.
+* Priorizar output y velocidad de iteración.
+* Arquitecturas desacopladas y reemplazables.
+* Software orientado a ejecución y resultados reales.
+
+---
+
+# 🌐 Contacto
+
+* LinkedIn: linkedin.com/in/jordanir
+* <p>Portfolio: <a href="https://jordan-iralde-portfolio.vercel.app/"> jordan-iralde-portfolio.vercel.app </a></p>
+* Email: [iraldejordan10@gmail.com](mailto:iraldejordan10@gmail.com)
