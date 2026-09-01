@@ -1,4 +1,4 @@
-# Full-Stack Developer & Codet'Lab Founder
+# Full-Stack Developer
 
 Construyo aplicaciones web y productos digitales con **React, Node.js, Express y MongoDB**.
 
