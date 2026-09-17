@@ -22,19 +22,25 @@ Aplicación web para gestión de objetivos, métricas y ejecución basada en OKR
 
 ---
 
+#### Nexo
+
+Aplicación web orientada a la **gestión y seguimiento de estudiantes en instituciones de educación especial**.
+
+El sistema busca centralizar la información de los estudiantes y facilitar el trabajo de los profesionales mediante una estructura organizada por instituciones, usuarios y registros asociados a cada estudiante.
+
+El producto se encuentra **publicado y en desarrollo activo**, con el objetivo de evolucionar progresivamente sus principales flujos y funcionalidades.
+
+**Stack:** React · TypeScript · Node.js · Express · Supabase
+
+**Web:** https://nexo.codetlab.com/
+
+---
+
 #### Blackbox.cc
 
 Sistema experimental orientado a automatización y optimización computacional.
 
 **Stack:** Python · React · Node.js · MongoDB
-
----
-
-#### Nexo
-
-Aplicación web desarrollada con React, orientada a una experiencia de usuario simple y responsive.
-
-**Stack:** React · TypeScript
 
 ### Enfoque
 
@@ -44,6 +50,8 @@ Aplicación web desarrollada con React, orientada a una experiencia de usuario s
 * Integración frontend/backend
 * Persistencia de datos
 * Arquitectura modular
+* Sistemas multi-tenant
+* Control de acceso y seguridad
 * Desarrollo orientado a producción
 
 > Weniger aber besser.
