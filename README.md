@@ -1,10 +1,10 @@
 # Full-Stack Developer
 
-Construyo aplicaciones web y productos digitales con **React, Node.js, Express y MongoDB**.
+I build web applications and digital products using **React, Node.js, Express, and MongoDB**.
 
-Me enfoco en transformar requerimientos en software funcional, mantenible y listo para producción.
+I focus on turning requirements into functional, maintainable, and production-ready software.
 
-### Stack principal
+### Core Stack
 
 * **Frontend:** React, JavaScript, TypeScript, HTML, CSS
 * **Backend:** Node.js, Express
@@ -12,11 +12,11 @@ Me enfoco en transformar requerimientos en software funcional, mantenible y list
 * **Mobile:** React Native
 * **Infrastructure:** Vercel, Render, Git, REST APIs
 
-### Proyectos destacados
+### Featured Projects
 
 #### Pathway
 
-Aplicación web para gestión de objetivos, métricas y ejecución basada en OKRs.
+Web application for **goal management, metrics, and execution based on OKRs**.
 
 **Stack:** React · Node.js · Express · MongoDB
 
@@ -24,11 +24,11 @@ Aplicación web para gestión de objetivos, métricas y ejecución basada en OKR
 
 #### Nexo
 
-Aplicación web orientada a la **gestión y seguimiento de estudiantes en instituciones de educación especial**.
+Web application designed for **student management and progress tracking in special education institutions**.
 
-El sistema busca centralizar la información de los estudiantes y facilitar el trabajo de los profesionales mediante una estructura organizada por instituciones, usuarios y registros asociados a cada estudiante.
+The system centralizes student information and facilitates the work of professionals through an organized structure of institutions, users, and student-related records.
 
-El producto se encuentra **publicado y en desarrollo activo**, con el objetivo de evolucionar progresivamente sus principales flujos y funcionalidades.
+The product is **live and actively under development**, with the goal of progressively improving its core workflows and functionality.
 
 **Stack:** React · TypeScript · Node.js · Express · Supabase
 
@@ -38,20 +38,20 @@ El producto se encuentra **publicado y en desarrollo activo**, con el objetivo d
 
 #### Blackbox.cc
 
-Sistema experimental orientado a automatización y optimización computacional.
+Experimental system focused on **automation and computational optimization**.
 
 **Stack:** Python · React · Node.js · MongoDB
 
-### Enfoque
+### Focus Areas
 
-* Desarrollo full-stack
-* APIs REST
-* Interfaces responsive
-* Integración frontend/backend
-* Persistencia de datos
-* Arquitectura modular
-* Sistemas multi-tenant
-* Control de acceso y seguridad
-* Desarrollo orientado a producción
+* Full-stack development
+* REST APIs
+* Responsive interfaces
+* Frontend/backend integration
+* Data persistence
+* Modular architecture
+* Multi-tenant systems
+* Access control and security
+* Production-oriented development
 
 > Weniger aber besser.
